@@ -5,9 +5,9 @@ import matplotlib.pyplot as plt
 from matplotlib.patches import Circle
 
 
-st.title("Fisika Komputasi Awan")
-st.title("Muhammad Aufavian Safa ")
-st.title("Nim = 220322608793 ")
+st.title("Fisika Komputasi Awan :fire:")
+st.title("Muhammad Aufavian Safa:fire: ")
+st.title("Nim = 220322608793:fire: ")
 circle = Circle((0, 0), 1, color='red', fill=False, linewidth=2, linestyle='-', alpha=0.2)
 x = []
 y = []
