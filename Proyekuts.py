@@ -6,8 +6,8 @@ from matplotlib.patches import Circle
 
 
 st.title("Fisika Komputasi Awan")
-st.title("Muhammad Aufavian Safa :sunglasses:")
-st.title("Nim = 220322608793 :sunglasses:")
+st.title("Muhammad Aufavian Safa ")
+st.title("Nim = 220322608793 ")
 circle = Circle((0, 0), 1, color='red', fill=False, linewidth=2, linestyle='-', alpha=0.2)
 x = []
 y = []
@@ -51,5 +51,5 @@ ax.tick_params(labelcolor='r', labelsize='medium', width=3)
 ax.set_xlim([-1, 1])
 ax.set_ylim([-1, 1])
 st.pyplot(fig)
-st.caption("Lingkaran dengan ukuran dan warna acak dan tersebar didalam lingkaran dengan radius 1")
+st.caption("Tugas Proyek UTS Komputasi Awan Lingkaran dengan ukuran dan warna acak dan tersebar didalam lingkaran dengan radius 1")
 st.divider()
